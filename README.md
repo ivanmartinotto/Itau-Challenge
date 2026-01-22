@@ -101,7 +101,7 @@ Implementing this project required a combination of **quantitative finance**, **
 
 ---
 
-## 5. Possible Future Improvements
+## 4. Possible Future Improvements
 
 There are several directions to extend and improve this project: 
 
