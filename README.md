@@ -1,6 +1,6 @@
 # Cryptum Adaptive Pairs Trading Backtest System
 
-This repository implements a complete quantitative workflow to search for historically stable cointegration periods between two assets and backtest a mean-reversion pairs trading strategy on those periods. [file:26]
+This repository implements a complete quantitative workflow to search for historically stable cointegration periods between two assets and backtest a mean-reversion pairs trading strategy on those periods. 
 
 The core focus is on automated discovery of robust trading windows instead of arbitrarily choosing fixed backtest intervals. 
 ---
